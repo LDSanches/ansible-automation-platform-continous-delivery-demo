@@ -9,7 +9,7 @@
   - name: Get a list of all pods from any namespace
     kubernetes.core.k8s_info:
       kind: Pod
-      namespace: aap-procergs
+      namespace: dev-game-app # Change to any namespace
     register: pod_list
 
   - name: create k8s pod
