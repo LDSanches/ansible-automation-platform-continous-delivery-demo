@@ -12,6 +12,6 @@ A subset of application deployment, continuous deployment pipelines help develop
 
 This Instruqt track provides hands-on experience in deploying CI/CD pipeline using the Ansible Automation Platform and Jenkins on Openshift.
 
-Let's get started!
+Let's get started!!
 
 https://developers.redhat.com/courses/cicd-ansible-automation-platform-and-jenkins-openshift
