@@ -16,7 +16,8 @@ spec:
     spec:
       containers:
       - name: racing-game
-        image: dev-game-app:latest
+        #image: dev-game-app:latest
+        image: quay.io/karasing/racing-game-app-openshift:latest
         resources:
           limits:
             memory: "128Mi"
